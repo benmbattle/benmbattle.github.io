@@ -1,1 +1,0 @@
-document_write("hello world")
